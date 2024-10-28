@@ -1,0 +1,2 @@
+前台：http://localhost:8080/自己项目别名/login.jsp
+后台：http://localhost:8080/自己项目别名/admin/login.jsp
